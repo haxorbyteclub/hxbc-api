@@ -87,7 +87,7 @@ app.MapGet("/api/v0/music", async () =>
     var musicFilePath = Path.Combine(app.Environment.ContentRootPath, "data", "music.json");
     var json = await File.ReadAllTextAsync(musicFilePath);
     return Results.Content(json, "application/json");
-})
+});
 
 app.Run();
 
