@@ -1,0 +1,250 @@
+[
+	{
+		"id": "1",
+		"url": "/music/AUTUMN-Soulful_Relaxed_Lounge.mp3",
+		"name": "AUTUMN",
+		"artist": "MoodsInMotion",
+		"genre": "Soulful_Relaxed_Lounge",
+		"duration": "3:37"
+	},
+	{
+		"id": "2",
+		"url": "/music/BALANCE-Lofi_Dreamy_Bright.mp3",
+		"name": "BALANCE",
+		"artist": "MoodsInMotion",
+		"genre": "Lofi_Dreamy_Bright",
+		"duration": "3:54"
+	},
+	{
+		"id": "3",
+		"url": "/music/BINARY-Hip-Hop_Boom-Bap_Chill.mp3",
+		"name": "BINARY",
+		"artist": "MoodsInMotion",
+		"genre": "Hip-Hop_Boom-Bap_Chill",
+		"duration": "3:59"
+	},
+	{
+		"id": "4",
+		"url": "/music/BUCKSHOT-Dubstep_Intense_Thrilling.mp3",
+		"name": "BUCKSHOT",
+		"artist": "MoodsInMotion",
+		"genre": "Dubstep_Intense_Thrilling",
+		"duration": "2:58"
+	},
+	{
+		"id": "5",
+		"url": "/music/CALM-Lofi_Chill_Relaxing.mp3",
+		"name": "CALM",
+		"artist": "MoodsInMotion",
+		"genre": "Lofi_Chill_Relaxing",
+		"duration": "3:01"
+	},
+	{
+		"id": "6",
+		"url": "/music/COLLAPSE-Synthwave_Electro_80s-Retro.mp3",
+		"name": "COLLAPSE",
+		"artist": "MoodsInMotion",
+		"genre": "Synthwave_Electro_80s-Retro",
+		"duration": "2:17"
+	},
+	{
+		"id": "7",
+		"url": "/music/DATA-BREACH-Synthwave_Retro_Dubstep.mp3",
+		"name": "DATA-BREACH",
+		"artist": "MoodsInMotion",
+		"genre": "Synthwave_Retro_Dubstep",
+		"duration": "3:37"
+	},
+	{
+		"id": "8",
+		"url": "/music/DECAY-House-music_Synthwave_Retro.mp3",
+		"name": "DECAY",
+		"artist": "MoodsInMotion",
+		"genre": "House-music_Synthwave_Retro",
+		"duration": "2:54"
+	},
+	{
+		"id": "9",
+		"url": "/music/ENCRYPTED-Deep-House_Electronica_Bright.mp3",
+		"name": "ENCRYPTED",
+		"artist": "MoodsInMotion",
+		"genre": "Deep-House_Electronica_Bright",
+		"duration": "3:06"
+	},
+	{
+		"id": "10",
+		"url": "/music/FADED-Deep-House_Electro_Vibrant.mp3",
+		"name": "FADED",
+		"artist": "MoodsInMotion",
+		"genre": "Deep-House_Electro_Vibrant",
+		"duration": "2:24"
+	},
+	{
+		"id": "11",
+		"url": "/music/FUSION-Lofi_Jazz_Unwind.mp3",
+		"name": "FUSION",
+		"artist": "MoodsInMotion",
+		"genre": "Lofi_Jazz_Unwind",
+		"duration": "3:29"
+	},
+	{
+		"id": "12",
+		"url": "/music/GHOST-Lofi_Piano_Ambient.mp3",
+		"name": "GHOST",
+		"artist": "MoodsInMotion",
+		"genre": "Lofi_Piano_Ambient",
+		"duration": "2:06"
+	},
+	{
+		"id": "13",
+		"url": "/music/HACKER-Synthwave_Cinematic_Retro.mp3",
+		"name": "HACKER",
+		"artist": "MoodsInMotion",
+		"genre": "Synthwave_Cinematic_Retro",
+		"duration": "4:00"
+	},
+	{
+		"id": "14",
+		"url": "/music/HOLOGRAM-Techno_Thundering_Energy.mp3",
+		"name": "HOLOGRAM",
+		"artist": "MoodsInMotion",
+		"genre": "Techno_Thundering_Energy",
+		"duration": "3:22"
+	},
+	{
+		"id": "15",
+		"url": "/music/HYPERLIGHT-Synth_Dystopian_Explosive.mp3",
+		"name": "HYPERLIGHT",
+		"artist": "MoodsInMotion",
+		"genre": "Synth_Dystopian_Explosive",
+		"duration": "2:03"
+	},
+	{
+		"id": "16",
+		"url": "/music/METROPOLIS-Deep-House_Somber_Melancholy.mp3",
+		"name": "METROPOLIS",
+		"artist": "MoodsInMotion",
+		"genre": "Deep-House_Somber_Melancholy",
+		"duration": "3:28"
+	},
+	{
+		"id": "17",
+		"url": "/music/MOTION-UKGarage_Club_Bouncy.mp3",
+		"name": "MOTION",
+		"artist": "MoodsInMotion",
+		"genre": "UKGarage_Club_Bouncy",
+		"duration": "3:16"
+	},
+	{
+		"id": "18",
+		"url": "/music/PHANTOM-Dubstep_Synthwave_Retro.mp3",
+		"name": "PHANTOM",
+		"artist": "MoodsInMotion",
+		"genre": "Dubstep_Synthwave_Retro",
+		"duration": "3:13"
+	},
+	{
+		"id": "19",
+		"url": "/music/PIXEL-Piano_Lofi_Dreamy.mp3",
+		"name": "PIXEL",
+		"artist": "MoodsInMotion",
+		"genre": "Piano_Lofi_Dreamy",
+		"duration": "1:59"
+	},
+	{
+		"id": "20",
+		"url": "/music/PULSE-Retro_Cinematic_Chase.mp3",
+		"name": "PULSE",
+		"artist": "MoodsInMotion",
+		"genre": "Retro_Cinematic_Chase",
+		"duration": "3:30"
+	},
+	{
+		"id": "21",
+		"url": "/music/REDLINE-Dubstep_Energetic_Thrilling.mp3",
+		"name": "REDLINE",
+		"artist": "MoodsInMotion",
+		"genre": "Dubstep_Energetic_Thrilling",
+		"duration": "2:10"
+	},
+	{
+		"id": "22",
+		"url": "/music/REFLECT-Deep-House_Soulful_Dreamy.mp3",
+		"name": "REFLECT",
+		"artist": "MoodsInMotion",
+		"genre": "Deep-House_Soulful_Dreamy",
+		"duration": "3:59"
+	},
+	{
+		"id": "23",
+		"url": "/music/REQUIEM-Synthwave_Futuristic_Dystopian.mp3",
+		"name": "REQUIEM",
+		"artist": "MoodsInMotion",
+		"genre": "Synthwave_Futuristic_Dystopian",
+		"duration": "2:07"
+	},
+	{
+		"id": "24",
+		"url": "/music/ROUTINE-Boom-Bap_Hip-Hop_Mellow.mp3",
+		"name": "ROUTINE",
+		"artist": "MoodsInMotion",
+		"genre": "Boom-Bap_Hip-Hop_Mellow",
+		"duration": "3:42"
+	},
+	{
+		"id": "25",
+		"url": "/music/SCHEMATIC-Drum-&-Bass_High-Octane_Dynamic.mp3",
+		"name": "SCHEMATIC",
+		"artist": "MoodsInMotion",
+		"genre": "Drum-&-Bass_High-Octane_Dynamic",
+		"duration": "3:02"
+	},
+	{
+		"id": "26",
+		"url": "/music/SHADE-Hip-Hop_Boom-Bap_Lofi.mp3",
+		"name": "SHADE",
+		"artist": "MoodsInMotion",
+		"genre": "Hip-Hop_Boom-Bap_Lofi",
+		"duration": "1:55"
+	},
+	{
+		"id": "27",
+		"url": "/music/SHADOWRUN-Synthwave_Retro_Cyberpunk.mp3",
+		"name": "SHADOWRUN",
+		"artist": "MoodsInMotion",
+		"genre": "Synthwave_Retro_Cyberpunk",
+		"duration": "1:39"
+	},
+	{
+		"id": "28",
+		"url": "/music/SONATA-Hip-Hop_Boom-Bap_Lofi.mp3",
+		"name": "SONATA",
+		"artist": "MoodsInMotion",
+		"genre": "Hip-Hop_Boom-Bap_Lofi",
+		"duration": "2:21"
+	},
+	{
+		"id": "29",
+		"url": "/music/SUAVE-Funk_Confident_Energetic.mp3",
+		"name": "SUAVE",
+		"artist": "MoodsInMotion",
+		"genre": "Funk_Confident_Energetic",
+		"duration": "3:52"
+	},
+	{
+		"id": "30",
+		"url": "/music/TRANQUIL-Lofi_Piano_Relaxed.mp3",
+		"name": "TRANQUIL",
+		"artist": "MoodsInMotion",
+		"genre": "Lofi_Piano_Relaxed",
+		"duration": "2:38"
+	},
+	{
+		"id": "31",
+		"url": "/music/ZERO-Deep-House_Vibrant_Warm.mp3",
+		"name": "ZERO",
+		"artist": "MoodsInMotion",
+		"genre": "Deep-House_Vibrant_Warm",
+		"duration": "2:07"
+	}
+]
