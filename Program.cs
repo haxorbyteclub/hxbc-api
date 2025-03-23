@@ -84,7 +84,13 @@ app.MapGet("/api/v0/hackernews", async () =>
 
 app.MapGet("/api/v0/music", async () =>
 {
-    var musicFilePath = Path.Combine(app.Environment.ContentRootPath, "data", "music.json");
+    //get data from /data/music.json and return string
+    var musicFilePath = Path.Combine(app.Environment.WebRootPath ?? "wwwroot", "data", "music.json");
+    if (!File.Exists(musicFilePath))
+    {
+        Directory.CreateDirectory(Path.GetDirectoryName(musicFilePath)!);
+        File.WriteAllText(musicFilePath, "[]");
+    }
     var json = await File.ReadAllTextAsync(musicFilePath);
     return Results.Content(json, "application/json");
 });
