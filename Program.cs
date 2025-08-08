@@ -43,7 +43,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 // GuestBook endpoints
-var guestBookFilePath = Path.Combine(app.Environment.WebRootPath ?? "wwwroot", "guestbook.json");
+var guestBookFilePath = Path.Combine(app.Environment.WebRootPath ?? "wwwroot", "data", "guestbook.json");
 
 // Ensure the JSON file exists
 if (!File.Exists(guestBookFilePath))
